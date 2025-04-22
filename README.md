@@ -20,6 +20,7 @@ Este proyecto es una implementación de una arquitectura de microservicios basad
 - Mailtrap
 - Docker / Podman
 - Postman / DBBeaver
+- Junit / Mockito
 
 ## 📌 Eureka Server
 
