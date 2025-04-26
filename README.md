@@ -179,4 +179,4 @@ networks:
 
 ## ✅ Estructura de la Carpeta
 
-![Estructura de carpetas](https://github.com/user-attachments/assets/b6ff7ad2-9a19-40d1-93d3-4d98b37054b8)
+![Estructuras de carpetas](https://github.com/user-attachments/assets/4f43aa01-d1de-4aee-a90b-e7b670e94f07)
